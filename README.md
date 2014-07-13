@@ -1,3 +1,3 @@
 build-tool-test
 ===============
-https://travis-ci.org/ckaznocha/sublime-text-2-mxunit.svg
+[![Build Status](https://travis-ci.org/SivPal12/build-tool-test.svg?branch=master)](https://travis-ci.org/SivPal12/build-tool-test)
